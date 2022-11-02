@@ -53,6 +53,7 @@
     </None>
     <None Include="App.config" />
     <None Include="Dockerfile" />
+    <None Include="Jenkinsfile" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
