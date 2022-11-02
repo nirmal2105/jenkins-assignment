@@ -1,0 +1,8 @@
+C:\CODEJAM\Codes\Salary\Salary\bin\Debug\Salary.exe.config
+C:\CODEJAM\Codes\Salary\Salary\bin\Debug\Salary.exe
+C:\CODEJAM\Codes\Salary\Salary\bin\Debug\Salary.pdb
+C:\CODEJAM\Codes\Salary\Salary\obj\Debug\Salary.csproj.AssemblyReference.cache
+C:\CODEJAM\Codes\Salary\Salary\obj\Debug\Salary.csproj.SuggestedBindingRedirects.cache
+C:\CODEJAM\Codes\Salary\Salary\obj\Debug\Salary.csproj.CoreCompileInputs.cache
+C:\CODEJAM\Codes\Salary\Salary\obj\Debug\Salary.exe
+C:\CODEJAM\Codes\Salary\Salary\obj\Debug\Salary.pdb
